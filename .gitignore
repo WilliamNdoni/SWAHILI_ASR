@@ -160,3 +160,5 @@ cython_debug/
 #.idea/
 # Ignoring the train file containing audios
 train/
+# Ignoring the model
+*.pt
