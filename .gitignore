@@ -165,3 +165,5 @@ train/
 *.txt
 *.wav
 learn-env/
+model/
+processor/
